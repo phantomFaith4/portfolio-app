@@ -1,0 +1,9 @@
+$mainColor:hsl(208, 62%, 26%); 
+$white:white;
+$width:750px;
+
+@mixin mobile{
+    @media ( max-width: #{$width}){
+        @content
+    } 
+}
