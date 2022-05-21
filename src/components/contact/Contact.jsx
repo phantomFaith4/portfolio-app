@@ -3,8 +3,8 @@ import {useState} from 'react';
 import emailjs from 'emailjs-com';
 import {useRef} from 'react';
 export default function Contact() {
+    
     const [message,setMessage] = useState(false);
-
     const form = useRef();   
     const handleSubmit = (e) =>{
         e.preventDefault();

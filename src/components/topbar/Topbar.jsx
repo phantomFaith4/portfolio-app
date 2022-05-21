@@ -9,7 +9,7 @@ export default function Topbar({menuOpen,setMenuOpen}) {
                     <a href="#intro" className="logo">ekOS</a>  
                     <div className="itemContainer">
                         <GitHub className="icon"/> 
-                        <span><a href="https://github.com/phantomFaith4" target="_blank" rel="noopener noreferrer">Ernad's GitHub</a></span> 
+                        <span><a className="gitLink" href="https://github.com/phantomFaith4" target="_blank" rel="noopener noreferrer">Ernad's GitHub</a></span> 
                     </div> 
                     <div className="itemContainer">  
                         <Mail className="icon"/>
