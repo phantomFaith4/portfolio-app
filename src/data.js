@@ -1,37 +1,37 @@
 export const featuredPortfolio = [
     {
       id: 1,
-      title: "Social Media App",
+      title: "Greenhouse App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://i.imgur.com/xF5hVL3.png",
     },
     {
       id: 2,
-      title: "Rampa UI Design",
+      title: "OPGG",
       img:
-        "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+        "https://i.imgur.com/45xJTcV.png",
     },
     {
       id: 3,
-      title: "E-commerce Web Design",
+      title: "Sorting App",
       img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+        "https://i.imgur.com/SwudFjy.png",
     },
     {
       id: 4,
-      title: "Relax Mobile App",
+      title: "Crypto Mobile App",
       img:
         "https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
     },
     {
       id: 5,
-      title: "Hero Web Design",
+      title: "Shoping Web Design",
       img:
         "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
     },
     {
       id: 6,
-      title: "Banking App",
+      title: "Shoping Web Design",
       img:
         "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
     },
@@ -40,18 +40,21 @@ export const featuredPortfolio = [
   export const webPortfolio = [
     {
       id: 1,
-      title: "Web Social Media App",
-      img: "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+      title: "Greenhouse App",
+      img:
+        "https://i.imgur.com/xF5hVL3.png",
     },
     {
       id: 2,
-      title: "Web Rampa UI Design",
-      img: "https://cdn.dribbble.com/users/3967258/screenshots/15463803/media/4fddb9a2caf3b3bd634060f706a91e73.png?compress=1&resize=1200x900",
+      title: "OPGG",
+      img:
+        "https://i.imgur.com/45xJTcV.png",
     },
     {
       id: 3,
-      title: "Web E-commerce Design",
-      img: "https://cdn.dribbble.com/users/3637068/screenshots/15467010/media/69a3279182b75365013fe285733d1122.png?compress=1&resize=1200x900",
+      title: "Sorting App",
+      img:
+        "https://i.imgur.com/SwudFjy.png",
     },
     {
       id: 4,
@@ -66,22 +69,22 @@ export const featuredPortfolio = [
     {
       id: 6,
       title: "Web Banking App",
-      img: "https://cdn.dribbble.com/users/6384483/screenshots/15468426/media/ce9479fa1f8dba3a4a49840d76e55e31.png?compress=1&resize=1200x900",
+      img: "https://cdn.dribbble.com/users/2051815/screenshots/10751582/dribbble_shot_hd_-_2_4x.png",
     },
   ];
   
   export const mobilePortfolio = [
     {
       id: 1,
-      title: "Mobile Social Media App",
+      title: "Mobile OPGG App",
       img:
-        "https://cdn.dribbble.com/users/2597268/screenshots/15468893/media/44313553d73ba41580f1df69749bba28.jpg?compress=1&resize=1200x900",
+        "https://i.imgur.com/v6plz3b.png",
     },
     {
       id: 2,
-      title: "Mobile Rampa UI Design",
+      title: "Smart home UI Design",
       img:
-        "https://cdn.dribbble.com/users/5920881/screenshots/15463142/media/b5a460223798bd85d835710806e2f3dd.png?compress=1&resize=1200x900",
+        "https://i.pinimg.com/originals/00/8a/ac/008aac9c2fa553b2f01b11ba39d0f3cd.png",
     },
     {
       id: 3,

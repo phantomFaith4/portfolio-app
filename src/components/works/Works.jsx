@@ -5,12 +5,13 @@ export default function Works() {
     const data = [
         {
             id: "1",
-            icon: "./assets/mobile.png",
-            title: "Web Design",
+            icon: "./assets/globe.png",
+            title: "Greenhouse Management App",
             desc:
-              "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+              "Simple app for remote controll of various options inside greenhouse.",
             img:
-              "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
+              "https://i.imgur.com/xF5hVL3.png",
+            link:"https://greenhouse-fit-app.herokuapp.com/",
           },
           {
             id: "2",
@@ -50,11 +51,11 @@ export default function Works() {
                                 </div>
                                 <h2>{d.title}</h2> 
                                 <p>{d.desc}</p> 
-                                <span>Project</span>
+                                <a href={d.link}  target="_blank"><span>Project</span></a>
                             </div>
                         </div>   
                         <div className="right">
-                            <img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930" alt="" />
+                            <img src={d.img} alt="" />
                         </div>
                     </div> 
                 </div>))}
