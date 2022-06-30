@@ -63,7 +63,7 @@ export default function Works() {
                                 </div>
                                 <h2>{d.title}</h2> 
                                 <p>{d.desc}</p> 
-                                <a href={d.link}  target="_blank"><span>Project</span></a>
+                                <a href={d.link}  rel="noreferrer" target="_blank"><span>Project</span></a>
                             </div>
                         </div>   
                         <div className="right">

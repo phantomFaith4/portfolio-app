@@ -31,7 +31,7 @@ export default function Contact() {
                 <h2>Contact</h2> 
                 <form ref={form} onSubmit={handleSubmit}>  
                     <input type="email" name="user_email" placeholder="Email"/> 
-                    <textarea name="message" placeholder="Message"></textarea>
+                    <textarea className='textArea' name="message" placeholder="Message"></textarea>
                     <button type="submit" value="Send">Send</button> 
                     {message && <span>Reply is comming soon!!!</span>} 
                 </form>
