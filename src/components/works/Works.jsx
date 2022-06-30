@@ -16,20 +16,32 @@ export default function Works() {
           {
             id: "2",
             icon: "./assets/globe.png",
-            title: "Mobile Application", 
+            title: "LoL Companion App", 
             desc:
-              "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "Web app in which you can search summoners and their info.Champion info and builds",
             img:
-              "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
+              "https://i.imgur.com/45xJTcV.png",
+            link:"https://greenhouse-fit-app.herokuapp.com/",
           },
           {
             id: "3",
             icon: "./assets/writing.png",
-            title: "Branding",
+            title: "Simple CRUD App",
             desc:
-              "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "Simple web app for displaying data in table and doing CRUD operations.",
             img:
-              "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
+              "https://i.imgur.com/9RPKYoY.png",
+            link:"https://greenhouse-fit-app.herokuapp.com/",
+          },
+          {
+            id: "4",
+            icon: "./assets/writing.png",
+            title: "Sorting App",
+            desc:
+              "App for visualization of sorting algorithms",
+            img:
+              "https://i.imgur.com/SwudFjy.png",
+            link:"https://simplesortingapp.netlify.app/",
           },
     ];
     

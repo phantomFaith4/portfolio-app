@@ -31,9 +31,8 @@ export const featuredPortfolio = [
     },
     {
       id: 6,
-      title: "Shoping Web Design",
-      img:
-        "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
+      title: "Simple CRUD App",
+      img: "https://i.imgur.com/9RPKYoY.png",
     },
   ];
   
@@ -58,8 +57,8 @@ export const featuredPortfolio = [
     },
     {
       id: 4,
-      title: "Web Relax App",
-      img: "https://cdn.dribbble.com/users/2264844/screenshots/15463998/media/d85e92a332c41094f68e1f716884f7ce.jpg?compress=1&resize=1200x900",
+      title: "Simple CRUD App",
+      img: "https://i.imgur.com/9RPKYoY.png",
     },
     {
       id: 5,
