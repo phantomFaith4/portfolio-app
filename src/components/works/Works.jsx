@@ -8,7 +8,7 @@ export default function Works() {
             icon: "./assets/globe.png",
             title: "Greenhouse Management App",
             desc:
-              "Simple app for remote controll of various options inside greenhouse.",
+              "Web App for remote controll of various options inside greenhouse.",
             img:
               "https://i.imgur.com/xF5hVL3.png",
             link:"https://greenhouse-fit-app.herokuapp.com/",
@@ -18,27 +18,27 @@ export default function Works() {
             icon: "./assets/globe.png",
             title: "LoL Companion App", 
             desc:
-              "Web app in which you can search summoners and their info.Champion info and builds",
+              "Web app in which you can search summoners and their info.Champion info and builds etc...",
             img:
               "https://i.imgur.com/45xJTcV.png",
-            link:"https://greenhouse-fit-app.herokuapp.com/",
+            link:"https://lol-companion-app.herokuapp.com/",
           },
           {
             id: "3",
             icon: "./assets/writing.png",
             title: "Simple CRUD App",
             desc:
-              "Simple web app for displaying data in table and doing CRUD operations.",
+              "Web app for built with MERN stack for  displaying data in table and doing CRUD operations.",
             img:
               "https://i.imgur.com/9RPKYoY.png",
-            link:"https://greenhouse-fit-app.herokuapp.com/",
+            link:"https://simple-crud-app1.herokuapp.com/",
           },
           {
-            id: "4",
+            id: "4", 
             icon: "./assets/writing.png",
             title: "Sorting App",
             desc:
-              "App for visualization of sorting algorithms",
+              "Web App for visualization of sorting algorithms",
             img:
               "https://i.imgur.com/SwudFjy.png",
             link:"https://simplesortingapp.netlify.app/",
